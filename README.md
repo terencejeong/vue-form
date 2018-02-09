@@ -1,6 +1,6 @@
-# vue-cli
+# A simple form
 
-> A Vue.js project
+A simple form made using Vue 
 
 ## Build Setup
 
